@@ -1,1 +1,1 @@
-# Moneky-Species-Classification
+# Monkey-Species-Classification
